@@ -1,6 +1,6 @@
 theme: jekyll-theme-slate
-title: Test website
-description: This website is for testing purposes
+title: Learn Bioinformatics
+description: This website is under development
 plugins:
   - jekyll-relative-links
 relative_links:
