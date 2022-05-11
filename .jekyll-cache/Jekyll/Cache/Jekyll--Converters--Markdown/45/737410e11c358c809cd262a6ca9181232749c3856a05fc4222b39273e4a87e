@@ -1,0 +1,121 @@
+I"�<p>Searchterms:
+<span class="blue">Sunday, March 13th 2022, 5:01:39 pm</span></p>
+
+<p><span class="red">To add:</span></p>
+<ul>
+  <li>Homing receptors (aid the T-cell in binding to tissue)</li>
+  <li>MALT</li>
+  <li>Lymph nodes</li>
+  <li>Interleukins</li>
+</ul>
+
+<h1 id="cells-of-the-adaptive-immune-system">Cells of the adaptive immune system:</h1>
+<h2 id="t-lymphocytes">T-lymphocytes:</h2>
+<p>![[Leukocytes#T lymphocytes]]
+T-lymphocytes aid in cell-mediated immunity</p>
+
+<h3 id="maturation-of-t-lymphocytes">Maturation of T-lymphocytes:</h3>
+<p>Due to the large number of possible antigens that the immune system may encounter at any point, there must be a system in place which ensures the adaptive immune system has access to T-cells which match any and all possible antigens it may encounter.</p>
+
+<table>
+  <tbody>
+    <tr>
+      <td>The number of T-cells with unique cell-surface receptors produced by the adaptive immune system is upwards of one billion, and that is done through a process of somatic recombination of a limited number of inherited gene segments. The issue with such a method is that T-cells which cannot recognize self cells can arise by chance (which can cause [[Autoimmune diseases</td>
+      <td>autoimmune diseases]], and so there is a selection process which is done to ensure that only the use. ^b353a8</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>This process occurs as the T-cells travel from the [[Histology of lymphoid organs#Cortex|cortex of the thymus]] to the [[Histology of lymphoid organs#Medulla|medulla]]. The non-lymphoid cells of the thymus (including endothelial cells, [[Macrophages|macrophages]] and dendritic cells) express high levels of both [[Major histocompatibility complex#MHC class I|class I]] and [[Major histocompatibility complex#MHC class II|class II]] MHCs displaying self antigens to the thymocytes (the name of immature T-cells) as they move through. This process results in two outcomes:</p>
+<ol>
+  <li>Positive selection: The T-cell which binds weakly to any MHC-antigen complexes are stimulated to survive.</li>
+  <li>
+    <table>
+      <tbody>
+        <tr>
+          <td>Negative selection: The T-cell which does bind or binds too strongly to any of the MHC-antigen complexes undergoes [[Apoptosis</td>
+          <td>apoptosis]].</td>
+        </tr>
+      </tbody>
+    </table>
+  </li>
+</ol>
+
+<h3 id="activation-of-helper-t-cells">Activation of Helper T-cells:</h3>
+<p>An [[Antigen-presenting cells|APC]] presents class II MHC bound antigens and stimulates the Helper T-cell, the binding process causes the APC to begin releasing interleukins and the helper T-cell is also stimulated and secretes cytokines that activate additional macrophages and cytotoxic cells.</p>
+
+<h3 id="activation-of-cytotoxic-t-lymphocytes">Activation of cytotoxic T-lymphocytes:</h3>
+<p>The cytotoxic T-cells is activated by the helper T-cell and recognizes the infected or cancerous cells that have different cell-surface antigens (coupled with class I MHCs) than normal cells.</p>
+
+<p>Once the activate (mature) cytotoxic T-cells encounters the specific target antigen-MHC complex. it binds to the infected cell and attacks it by secreting cytotoxic granules containing granzymes that kill the target cell.</p>
+
+<h3 id="types-of-helper-t-lymphocytes">Types of helper T-lymphocytes:</h3>
+<h4 id="type-1">Type 1:</h4>
+<p>Type 1 helper T-cells are responsible mainly for the immune response during [[General structure of bacteria|bacterial]] infections. T-cells differentiate into them by the secretion of IL-12, and they in-turn secrete:</p>
+
+<ul>
+  <li>IL-2 is an autocrine growth factor for TH1 cells</li>
+  <li>IFN-g inhibits TH2 proliferation, activates macrophages and stimulate B cells to secrete IgG antibodies that opsonize microbes for phagocytosis</li>
+  <li>
+    <table>
+      <tbody>
+        <tr>
+          <td>LT (Lymphotoxin) and Tumor Necrosis Factor (TNF) activate neutrophils and stimulate [[Inflammation</td>
+          <td>inflammation]]</td>
+        </tr>
+      </tbody>
+    </table>
+  </li>
+</ul>
+
+<h4 id="type-2">Type 2:</h4>
+<p>Type 2 helper T-cells are responsible mainly for the immune response during [[General structure of parasites|parasitic]] infections (primarily by [[General structure of parasites#Helminths|helminths]]). These cells differentiate in response to helminths and [[Antigens#^724190|allergens]] and do not require any significant signaling by the [[Innate immunity|innate immune response]]. Upon activation they secrete:</p>
+
+<ul>
+  <li>IL-4 antagonizes IFN-g effects, suppresses macrophage activation and acts on B cells to stimulate IgE antibodies which are important for allergic reactions. IL-4 is also an autocrine growth and differentiation cytokine for TH2 cells</li>
+  <li>IL-10 inhibits IFN-g synthesis, suppresses macrophage activation</li>
+  <li>IL-5 activates eosinophils, a response which is important for defense against helminthic infections</li>
+</ul>
+
+<h2 id="b-lymphocytes">B-lymphocytes:</h2>
+<p>![[Leukocytes#B lymphocytes]]
+B-lymphocytes aid in [[The four humors|humoral]] immunity.</p>
+
+<h3 id="activation-of-b-lymphocytes">Activation of B-lymphocytes:</h3>
+<p>B-cells can bind using their cell-surface receptors to bind to a matching antigen, once a match is found the cell then ingests the antigen via endocytosis, and process it to be combined with class II MHCs for presentation to helper T-cells with matching receptors.</p>
+
+<p>Once the B-cell activates a T-cell successfully, the activated T-cell releases lymphokines and interleukins that transform the B cell into a plasma cell which secretes antibodies.</p>
+
+<h2 id="proliferation-of-cells">Proliferation of cells:</h2>
+<p>Both the T-cells and B-cells require two distinct extracellular signals for them to proliferate and differentiate into effector cells. These two signals are:</p>
+<ol>
+  <li>The binding of the antigen to the antigen receptor, which specifies the target proteins.</li>
+  <li>
+    <table>
+      <tbody>
+        <tr>
+          <td>The second signal is more complex and is provided by molecules called costimulants. The best known costimulatory molecule is the B7 on [[Antigen-presenting cells#Professional APCs</td>
+          <td>APCs]] which binds to the CD28 molecule on the surface of the T-cells. This induces the expression of anti-apoptotic proteins, stimulate the production of cytokines by the T-cells and induce proliferation and differentiation of the T-cell to deal with the target antigen.</td>
+        </tr>
+      </tbody>
+    </table>
+  </li>
+</ol>
+
+<h1 id="memory-of-the-immune-system">Memory of the immune system:</h1>
+<p>Some of the activated B and T-cells remain after an immune response in the body as memory cells. These cells remain circulating in the blood and are able of mounting an immune response on a much larger and faster scale when an antigen is encountered again than it would be for a new antigen. Through these memory cells, “immunity” is acquired.</p>
+
+<p>The two main types of immunity that can be acquired are:</p>
+<ol>
+  <li>Long-term immunity; which is stimulated by direct infections and vaccinations.</li>
+  <li>Short-term immunity; which is transferred passively from one individual to another via any antibody-containing serum. This is also seen in infants which receive antibodies that protect them throughout their infancy periods from diseases previously encountered by the mother of the child.</li>
+</ol>
+
+<h1 id="additional-information">Additional Information</h1>
+<hr />
+
+<h1 id="flashcards">Flashcards</h1>
+<hr />
+<p>TARGET DECK</p>
+
+:ET
