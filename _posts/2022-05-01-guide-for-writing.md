@@ -3,9 +3,6 @@ layout: posts
 title: "❗️❗️❗️Guide for writing❗️❗️❗️"
 ---
 
-Searchterms:
-<span class = 'blue'>Saturday, March 26th 2022, 1:59:01 pm</span>
-
 ALT + T to choose and insert template
 
 ==MAIN CONTENT SHOULD BE PLACED UNDER THE DATE==

@@ -3,8 +3,6 @@ layout: posts
 title: "Acute inflammation"
 ---
 
-Searchterms:
-<span class = 'blue'>Friday, March 25th 2022, 1:01:39 am</span>
 
 # Features of inflammation:
 ![[Inflammation#Inflammation]]
