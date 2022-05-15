@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "❗️❗️❗️Guide for writing❗️❗️❗️"
 ---
 
@@ -80,14 +80,11 @@ alt + . for °
 ---
 ==ONLY VIDEOS AND WEBSITES GO IN "ADDITIONAL INFORMATION"==
 
-<iframe src="https://www.google.com" height="400" width="400"></iframe>
+<iframe src="https://google.com" height="400" width="400"></iframe>
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gggC9vctvBQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-# Flashcards
----
-TARGET DECK
 
 
 
