@@ -1,502 +1,502 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-05-14T00:44:40+03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Learnbioinfo.com</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2022/05/11/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2022-05-11T22:01:35+03:00</published><updated>2022-05-11T22:01:35+03:00</updated><id>http://localhost:4000/jekyll/update/2022/05/11/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2022/05/11/welcome-to-jekyll.html"><![CDATA[<p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-05-15T12:43:04+03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Learnbioinfo.com</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2022/05/11/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2022-05-11T22:01:35+03:00</published><updated>2022-05-11T22:01:35+03:00</updated><id>http://localhost:4000/jekyll/update/2022/05/11/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2022/05/11/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
 
-<p>Jekyll requires blog post files to be named according to the following format:</p>
+&lt;p&gt;Jekyll requires blog post files to be named according to the following format:&lt;/p&gt;
 
-<p><code class="language-plaintext highlighter-rouge">YEAR-MONTH-DAY-title.MARKUP</code></p>
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR-MONTH-DAY-title.MARKUP&lt;/code&gt;&lt;/p&gt;
 
-<p>Where <code class="language-plaintext highlighter-rouge">YEAR</code> is a four-digit number, <code class="language-plaintext highlighter-rouge">MONTH</code> and <code class="language-plaintext highlighter-rouge">DAY</code> are both two-digit numbers, and <code class="language-plaintext highlighter-rouge">MARKUP</code> is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.</p>
+&lt;p&gt;Where &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR&lt;/code&gt; is a four-digit number, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MONTH&lt;/code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;DAY&lt;/code&gt; are both two-digit numbers, and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MARKUP&lt;/code&gt; is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
 
-<p>Jekyll also offers powerful support for code snippets:</p>
-
-<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
-  <span class="nb">puts</span> <span class="s2">"Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">"</span>
-<span class="k">end</span>
-<span class="n">print_hi</span><span class="p">(</span><span class="s1">'Tom'</span><span class="p">)</span>
-<span class="c1">#=&gt; prints 'Hi, Tom' to STDOUT.</span></code></pre></figure>
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&apos;Tom&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &apos;Hi, Tom&apos; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
-<p>Check out the <a href="https://jekyllrb.com/docs/home">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>. If you have questions, you can ask them on <a href="https://talk.jekyllrb.com/">Jekyll Talk</a>.</p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.]]></summary></entry><entry><title type="html">Adaptive Immunity</title><link href="http://localhost:4000/2022/05/03/adaptive-immunity.html" rel="alternate" type="text/html" title="Adaptive Immunity" /><published>2022-05-03T00:00:00+03:00</published><updated>2022-05-03T00:00:00+03:00</updated><id>http://localhost:4000/2022/05/03/adaptive-immunity</id><content type="html" xml:base="http://localhost:4000/2022/05/03/adaptive-immunity.html"><![CDATA[<h2 id="cells-of-the-adaptive-immune-system">Cells of the adaptive immune system:</h2>
-<hr />
-<h1 id="t-lymphocytes">T-lymphocytes:</h1>
-<p>T-lymphocytes aid in cell-mediated immunity</p>
-
-<h1 id="maturation-of-t-lymphocytes">Maturation of T-lymphocytes:</h1>
-
-<p>Due to the large number of possible antigens that the immune system may encounter at any point, there must be a system in place which ensures the adaptive immune system has access to T-cells which match any and all possible antigens it may encounter.</p>
-
-<p>The number of T-cells with unique cell-surface receptors produced by the adaptive immune system is upwards of one billion, and that is done through a process of somatic recombination of a limited number of inherited gene segments. The issue with such a method is that T-cells which cannot recognize self cells can arise by chance (which can cause autoimmune diseases, and so there is a selection process which is done to ensure that only the use.</p>
-
-<p>This process occurs as the T-cells travel from the cortex of the thymus to the medulla. The non-lymphoid cells of the thymus (including endothelial cells, macrophages and dendritic cells) express high levels of both class I and class II MHCs displaying self antigens to the thymocytes (the name of immature T-cells) as they move through. This process results in two outcomes:</p>
-<ol>
-  <li>Positive selection: The T-cell which binds weakly to any MHC-antigen complexes are stimulated to survive.</li>
-  <li>Negative selection: The T-cell which does bind or binds too strongly to any of the MHC-antigen complexes undergoes apoptosis.</li>
-</ol>
-
-<h3 id="activation-of-helper-t-cells">Activation of Helper T-cells:</h3>
-<p>An APC presents class II MHC bound antigens and stimulates the Helper T-cell, the binding process causes the APC to begin releasing interleukins and the helper T-cell is also stimulated and secretes cytokines that activate additional macrophages and cytotoxic cells.</p>
-
-<h3 id="activation-of-cytotoxic-t-lymphocytes">Activation of cytotoxic T-lymphocytes:</h3>
-<p>The cytotoxic T-cells is activated by the helper T-cell and recognizes the infected or cancerous cells that have different cell-surface antigens (coupled with class I MHCs) than normal cells.</p>
-
-<p>Once the activate (mature) cytotoxic T-cells encounters the specific target antigen-MHC complex. it binds to the infected cell and attacks it by secreting cytotoxic granules containing granzymes that kill the target cell.</p>
-
-<h3 id="types-of-helper-t-lymphocytes">Types of helper T-lymphocytes:</h3>
-<h4 id="type-1">Type 1:</h4>
-<p>Type 1 helper T-cells are responsible mainly for the immune response during [[General structure of bacteria|bacterial]] infections. T-cells differentiate into them by the secretion of IL-12, and they in-turn secrete:</p>
-
-<ul>
-  <li>IL-2 is an autocrine growth factor for TH1 cells</li>
-  <li>IFN-g inhibits TH2 proliferation, activates macrophages and stimulate B cells to secrete IgG antibodies that opsonize microbes for phagocytosis</li>
-  <li>LT (Lymphotoxin) and Tumor Necrosis Factor (TNF) activate neutrophils and stimulate inflammation.</li>
-</ul>
-
-<h4 id="type-2">Type 2:</h4>
-<p>Type 2 helper T-cells are responsible mainly for the immune response during parasitic infections (primarily by helminths). These cells differentiate in response to helminths and allergens and do not require any significant signaling by the innate immune response. Upon activation they secrete:</p>
-
-<ul>
-  <li>IL-4 antagonizes IFN-g effects, suppresses macrophage activation and acts on B cells to stimulate IgE antibodies which are important for allergic reactions. IL-4 is also an autocrine growth and differentiation cytokine for TH2 cells</li>
-  <li>IL-10 inhibits IFN-g synthesis, suppresses macrophage activation</li>
-  <li>IL-5 activates eosinophils, a response which is important for defense against helminthic infections</li>
-</ul>
-
-<h1 id="b-lymphocytes">B-lymphocytes:</h1>
-<p>B-lymphocytes aid in humoral immunity.</p>
-
-<h3 id="activation-of-b-lymphocytes">Activation of B-lymphocytes:</h3>
-<p>B-cells can bind using their cell-surface receptors to bind to a matching antigen, once a match is found the cell then ingests the antigen via endocytosis, and process it to be combined with class II MHCs for presentation to helper T-cells with matching receptors.</p>
-
-<p>Once the B-cell activates a T-cell successfully, the activated T-cell releases lymphokines and interleukins that transform the B cell into a plasma cell which secretes antibodies.</p>
-
-<h2 id="proliferation-of-cells">Proliferation of cells:</h2>
-<p>Both the T-cells and B-cells require two distinct extracellular signals for them to proliferate and differentiate into effector cells. These two signals are:</p>
-<ol>
-  <li>The binding of the antigen to the antigen receptor, which specifies the target proteins.</li>
-  <li>The second signal is more complex and is provided by molecules called costimulants. The best known costimulatory molecule is the B7 on APCs which binds to the CD28 molecule on the surface of the T-cells. This induces the expression of anti-apoptotic proteins, stimulate the production of cytokines by the T-cells and induce proliferation and differentiation of the T-cell to deal with the target antigen.</li>
-</ol>
-
-<h1 id="memory-of-the-immune-system">Memory of the immune system:</h1>
-<p>Some of the activated B and T-cells remain after an immune response in the body as memory cells. These cells remain circulating in the blood and are able of mounting an immune response on a much larger and faster scale when an antigen is encountered again than it would be for a new antigen. Through these memory cells, “immunity” is acquired.</p>
-
-<p>The two main types of immunity that can be acquired are:</p>
-<ol>
-  <li>Long-term immunity; which is stimulated by direct infections and vaccinations.</li>
-  <li>Short-term immunity; which is transferred passively from one individual to another via any antibody-containing serum. This is also seen in infants which receive antibodies that protect them throughout their infancy periods from diseases previously encountered by the mother of the child.</li>
-</ol>
-
-<h2 id="additional-information">Additional Information</h2>
-<hr />
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7_hiaCq2rew" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>]]></content><author><name></name></author><summary type="html"><![CDATA[Cells of the adaptive immune system: T-lymphocytes: T-lymphocytes aid in cell-mediated immunity]]></summary></entry><entry><title type="html">Acute inflammation</title><link href="http://localhost:4000/2022/05/02/acute-inflammation.html" rel="alternate" type="text/html" title="Acute inflammation" /><published>2022-05-02T00:00:00+03:00</published><updated>2022-05-02T00:00:00+03:00</updated><id>http://localhost:4000/2022/05/02/acute-inflammation</id><content type="html" xml:base="http://localhost:4000/2022/05/02/acute-inflammation.html"><![CDATA[<h1 id="features-of-inflammation">Features of inflammation:</h1>
-<p>![[Inflammation#Inflammation]]</p>
-
-<h1 id="pathophysiology-of-acute-inflammation">Pathophysiology of acute inflammation:</h1>
-<p>Acute inflammation has three major components pertaining to the blood vessels, the [[Immune systems in the body|immune response]], and the chemical mediators of the inflammatory response.</p>
-
-<h2 id="blood-vessels">Blood vessels:</h2>
-<p>During acute inflammation, blood vessels and capillaries of the affected area undergo a period of transient vasoconstriction, then vasodilation which causes an increase in blood flow to the region. This action is then sequentially followed by an increase in the permeability of the vessels and capillaries which allows fluid to flow outside of the vessels and into the surrounding tissue.</p>
-
-<p>There are two main forms of fluid which can leak from the blood vessels to the interstitial tissues, they are:</p>
-<ul>
-  <li>
-    <table>
-      <tbody>
-        <tr>
-          <td>Exudate, which is fluid that is rich in proteins, cell debris, and potentially some RBCs and [[Leukocytes</td>
-          <td>leukocytes]].</td>
-        </tr>
-      </tbody>
-    </table>
-  </li>
-  <li>Transudate, which is a fluid with low protein content and is released during periods of hydrostatic or osmotic pressure imbalances without any increase in vascular permeability (i.e., fluid is able to pass through the vascular endothelium but not larger molecules such as proteins).</li>
-</ul>
-
-<p>Both exudate and transudate cause edema when they are released into the interstitial tissue, however the release of exudate is particular to inflammation.</p>
-
-<table>
-  <tbody>
-    <tr>
-      <td>This decrease of fluid intravascularly, will gradually increases the viscosity of the blood since the concentration of [[Erythrocytes</td>
-      <td>RBCs]] increases. This causes the blood flow to slow down in a period known as ‘stasis’ which can be externally seen as a localized redness or [[Erythema</td>
-      <td>erythema]]. Stasis allows for ‘margination’, meaning [[Leukocytes</td>
-      <td>leukocytes]], mostly [[Leukocytes#Neutrophils</td>
-      <td>neutrophils]], adhere to the vascular endothelium and migrate into the injured interstitial tissue.</td>
-    </tr>
-  </tbody>
-</table>
-
-<h2 id="leukocytes">Leukocytes:</h2>
-<ul>
-  <li>Accumulation across the vascular surface.</li>
-  <li>Recruitment through margination and rolling (diapedesis $\rightarrow$ transmigration)</li>
-  <li>Margination due to vasodilation and non-centered leukocyte positioning</li>
-  <li>Rolling controlled by selectins (produced by mast cells and macrophages), which are regulated by cytokines and chemokines.</li>
-</ul>
-
-<table>
-  <tbody>
-    <tr>
-      <td>The recruitment of leukocytes, namely neutrophils and [[Macrophages</td>
-      <td>macrophages]], to the site of inflammation is important for warding off [[Microbial pathogenesis</td>
-      <td>pathogens]] and inducing tissue repair. Since leukocytes and other blood cells are constantly moving in the blood vessels, in order for the body to recruit the leukocytes into the site of inflammation it must first stop their movement.</td>
-    </tr>
-  </tbody>
-</table>
-
-<p>This is done through the process of margination which is induced by the leakage of fluid (such as exudate or transudate) into the site of injury, this increases the concentration of solutes and cells in the blood and initiates a period of stasis where leukocytes such as neutrophils are capable of reaching the surface of the endothelium. ^c90156</p>
-
-<p>Upon reaching the surface of the endothelium, there are three key phases which leukocytes undergo to reach the site of inflammation and commence the immune response:</p>
-<ul>
-  <li>Rolling and adhering to the surface of the endothelium.</li>
-  <li>Transmigration through the interendothelial cell gaps.</li>
-  <li>Movement of the leukocytes through the tissue to the site of inflammation.</li>
-</ul>
-
-<h3 id="rolling">Rolling:</h3>
-<p>Injured tissue, mast cells, and macrophages all produce cytokines and mediator compounds which can activate endothelial cell and induce the expression of selectins, which are cell-surface molecules which leukocytes can bind to transiently.</p>
-
-<p>When margination of the leukocytes in the blood vessels occur, they are capable of contacting the surface of the endothelial cells, thus binding to the selectins transiently in a rolling motion until the leukocytes slow down enough to adhere to [[Integrins|integrins]] (the more tightly binding molecule). There are three types of selectins:</p>
-<ul>
-  <li>E selectins, which are found on the surface of the endothelial cells.</li>
-  <li>
-    <table>
-      <tbody>
-        <tr>
-          <td>P selectins, which are found on the surface of [[Platelets</td>
-          <td>platelets]].</td>
-        </tr>
-      </tbody>
-    </table>
-  </li>
-  <li>L selectins, which are found on the surface of leukocytes.</li>
-</ul>
-
-<p>The most important cytokines released by macrophages and mast cells are the tumour necrosis factor (TNF), and interleukin-1 (IL-1).</p>
-
-<h3 id="adhesion">Adhesion:</h3>
-<p>Adhesion of leukocytes to the surface of the endothelium is mediated by integrins, which are expressed in low conditions on the surface of leukocytes and adheres when the leukocytes are activated by chemokines found on the [[Proteoglycans|proteoglycan]] layer of the vascular endothelium.</p>
-
-<p>Integrins are transmembrane glycoproteins expressed by leukocytes which are capable of binding to ligands on the surface of the endothelial cells. The integrins are activated by chemokines on found on the proteoglycan layer of the endothelium (the chemokines originate from various cells at the site of inflammation). Simultaneously, cytokines released by macrophages and mast cells (mainly TNF and IL-1), increase the expression of <strong>ICAM-1</strong> and <strong>VCAM-1</strong> ligands on the surface of the endothelial cells.</p>
-
-<p>ICAM-1 and VCAM-1 on the endothelial cells then adhere firmly to the integrins of activated leukocytes and cause them to stop rolling on the surface of the blood vessels.</p>
-
-<h3 id="transmigration">Transmigration</h3>
-<p>When the leukocytes stop rolling along the endothelial surface, they migrate through the vessels walls into the extracellular space by moving through the interendothelial cell gaps, a process called diapedesis.</p>
-
-<p>This action is mediated by extracellular chemokines and PECAM-1 (also known as CD31), which create a concentration gradient that the leukocytes follow.</p>
-
-<p><img src="https://i1.wp.com/www.stomponstep1.com/wp-content/uploads/2014/10/Neutrophil-Extravasion-Margination-Rolling-Adhesion-Transmigration.png" alt="diapedesis" /></p>
-
-<h3 id="chemotaxis">Chemotaxis:</h3>
-<p>Chemotaxis is the process through which leukocytes which reach the extracellular space, it is mediated by specific chemo-attractants (chemokines) released by either exogenous or endogenous sources, these include:</p>
-<ul>
-  <li>
-    <table>
-      <tbody>
-        <tr>
-          <td>Exogenous, or not originating from the body; such as bacterial products and [[Microbial pathogenesis#Bacterial toxins</td>
-          <td>toxins]].</td>
-        </tr>
-      </tbody>
-    </table>
-  </li>
-  <li>
-    <table>
-      <tbody>
-        <tr>
-          <td>Endogenous, or originating from the body; including cytokines (IL-80, [[Complement system#Proteins of the complement system</td>
-          <td>complement proteins]] (especially [[Complement system#^245fe1</td>
-          <td>C5a]]), and arachidonic acid metabolites (LTB4).</td>
-        </tr>
-      </tbody>
-    </table>
-  </li>
-</ul>
-
-<h3 id="phagocytosis">Phagocytosis:</h3>
-<p>![[Phagocytosis#Phagocytosis]]</p>
-
-<h1 id="chemical-mediators-of-acute-inflammation">Chemical mediators of acute inflammation:</h1>
-<p>Chemical mediators of inflammation are numerous and complex in nature, they are also very important in the design and engineering of many different anti-inflammatory drugs such as aspirin and acetaminophen.</p>
-
-<table>
-  <tbody>
-    <tr>
-      <td>Mediators of inflammation act by binding-action to specific cell-surface receptors found on different [[Eukaryotes</td>
-      <td>cells]], they are short-lived molecules which decay in the body through enzyme-mediated decay, inactivation, or inhibition.</td>
-    </tr>
-  </tbody>
-</table>
-
-<table>
-  <tbody>
-    <tr>
-      <td>There are two main sources of inflammatory mediators in the body, some chemicals are produced and originate from cells, while others are found in the [[Blood cells and samples#^a80fd1</td>
-      <td>blood plasma]].</td>
-    </tr>
-  </tbody>
-</table>
-
-<h2 id="cell-derived">Cell-derived:</h2>
-<p>Cell-derived inflammatory mediators include the chemicals released by immune cells from intracellular [[Leukocytes#Granulocytes|granules]], and they include the chemicals that are synthesized de novo at the site of inflammation in response to stimuli such as damaged cells and pathogens.</p>
-
-<h3 id="vasoactive-amines">Vasoactive amines:</h3>
-<p>Vasoactive amines are chemical compounds which affect the blood vessels during inflammation, and the two major vasoactive amines are histamine and serotonin.</p>
-
-<p>Vasoactive amines are typically stored as preformed molecules in different cells and are the first to be released during an immune response. There are three main stimuli which result in their release:</p>
-<ul>
-  <li>Physical injury</li>
-  <li>
-    <table>
-      <tbody>
-        <tr>
-          <td>Binding of [[Antibodies</td>
-          <td>antibodies]] to mast cells (the cause of [[Hypersensitivity reactions#Type I hypersensitivity reactions</td>
-          <td>hypersensitivity reactions]]).</td>
-        </tr>
-      </tbody>
-    </table>
-  </li>
-  <li>They can be the byproducts of the complement system.</li>
-</ul>
-
-<p><strong>Histamine</strong> is the vasoactive amine released by mast cells that are adjacent to blood vessels, and it aids in the process of vasodilation and increasing the permeability of the blood vessels where it is released.</p>
-
-<table>
-  <tbody>
-    <tr>
-      <td><strong>Serotonin</strong> is similar to histamine in function, however it is found in the [[Platelets</td>
-      <td>platelets]], some neurons, and enterochromaffin cells where it functions as a [[Neurotransmitters</td>
-      <td>neurotransmitter]] as well.</td>
-    </tr>
-  </tbody>
-</table>
-
-<h3 id="arachidonic-acid-metabolites">Arachidonic acid metabolites:</h3>
-<p>Arachidonic acid is a [[Lipids|lipid]] derived from linoleic acid and is found in the cell membrane of tissue cells. Arachidonic acid is typically esterified in the membrane and will only escape through physical, chemical, and other mechanical forces related with tissue injury.</p>
-
-<table>
-  <tbody>
-    <tr>
-      <td>Free floating-floating arachidonic acid is rapidly converted into bioactive mediators called [[Eicosanoids</td>
-      <td>eicosanoids]] which bind to [[G-protein coupled receptors</td>
-      <td>GCPRs]] on the surface of neighboring tissue cells and induce the synthesis of [[Eicosanoids</td>
-      <td>prostaglandins]] and [[Leukotrienes</td>
-      <td>leukotrienes]].</td>
-    </tr>
-  </tbody>
-</table>
-
-<p>This conversion is mediated by two major classes of enzymes, which are:</p>
-<ul>
-  <li>
-    <table>
-      <tbody>
-        <tr>
-          <td>Cyclooxygenases: The cyclooxygenase pathway is mediate by COX-1 and COX-2, and produces [[Eicosanoids</td>
-          <td>prostaglandins]], which mediate vasodilation and increase vascular permeability. In addition to thromboxane A<sub>2</sub> (TXA<sub>2</sub>), which mediates vasoconstriction and promotes platelet aggregation. It is inhibited by aspirin.</td>
-        </tr>
-      </tbody>
-    </table>
-  </li>
-  <li>
-    <table>
-      <tbody>
-        <tr>
-          <td>Lipoxygenases: The lipoxygenase pathway is mediated by 5-lipooxygenase and produces [[Leukotrienes</td>
-          <td>leukotrienes]], which act as [[Chemotaxis</td>
-          <td>chemotactic agents]] and increase vascular permeability.</td>
-        </tr>
-      </tbody>
-    </table>
-  </li>
-</ul>
-
-<p>![[Pasted image 20220328185504.png]]</p>
-
-<h3 id="cytokines">Cytokines:</h3>
-<p>![[Cytokines#Cytokines in inflammation]]</p>
-
-<h3 id="nitric-oxides">Nitric oxides:</h3>
-<p>Nitric oxides are <strong>potent vasodilators</strong> formed in the body by nitric oxide synthase (NOS), they are involved in the pathogenesis of [[Anaphylaxis|anaphylactic shock]] and function as cytotoxic agents for killing [[Microbial pathogenesis|microbes]].</p>
-
-<h2 id="plasma-derived">Plasma-derived:</h2>
-<p>Plasma-derived inflammatory mediators are chemicals that are readily circulating in the blood such as the [[Complement system|complement system]] proteins and [[Blood coagulation|coagulation]] factors (i.e., proteins initiated by the [[Blood coagulation#Hageman factor|Hageman factor]]).</p>
-
-<h3 id="complement-system">Complement system:</h3>
-<p>The [[Complement system|complement system]] plays an important role during acute inflammation, where the cleavage of the C3 complement protein allows for the cleavage of other complement proteins down the chain which mediate inflammation; namely the [[Complement system#^767d27|C5a, C4a, and C3a]] cleavage products (although mostly C5a).
-![[Complement system#The complement system]]</p>
-
-<table>
-  <tbody>
-    <tr>
-      <td>The [[Complement system#Membrane attack complex</td>
-      <td>membrane attack complex]] is also an important part of the complement system and in inflammation. The main function of the MAC is microbial lysis through the formation of pores through the [[Eukaryotes#Cell Membrane</td>
-      <td>cell membrane]] of any pathogens.</td>
-    </tr>
-  </tbody>
-</table>
-
-<p>![[Complement system#Membrane attack complex]]</p>
-
-<h3 id="coagulation-and-kinin-system">Coagulation and kinin system:</h3>
-<p>![[Blood coagulation]]</p>
-
-<h1 id="recognition-of-foreign-particles">Recognition of foreign particles:</h1>
-<h2 id="toll-like-receptors">Toll-like receptors:</h2>
-<p>These are cell-surface receptors found on the surface of macrophages and dendritic cells. TLRs are capable of recognizing many pathogen-associated molecular patterns or PAMPs, which allows their cells to recognize foreign pathogens ([[Prokaryotes#Nucleoid|bacterial DNA]], [[Microbial pathogenesis#Endotoxins|endotoxins]], [[General structure of viruses|viruses]], etc…).</p>
-
-<h2 id="inflammasomes">Inflammasomes:</h2>
-<p>Inflammasomes are proteins that are part of a multiprotein cytoplasmic complex that is activated by the products of dead cells, and activate caspace-1 which results in the secretion of cytokines such as IL-1<sub>β</sub></p>
-
-<h1 id="outcome">Outcome:</h1>
-<p>The outcome of acute inflammation are either resolution of the inflammation or the development of [[Chronic inflammation|chronic inflammation]].</p>
-
-<p>Resolution of the inflammation takes two main forms:</p>
-<ul>
-  <li>The inflammation is either resolved with minimal tissue injury, meaning no major growth and repair are required and the tissue is capable of operating normally.</li>
-  <li>Or the inflammation can be resolved but after the formation of an abscess or some pustulate bodies, which then experience fibrosis and loss of function in the affected area.</li>
-</ul>
-
-<table>
-  <tbody>
-    <tr>
-      <td>The development of chronic inflammation has many potential outcomes which can be reviewed in the [[Chronic inflammation</td>
-      <td>chronic inflammation]] section.</td>
-    </tr>
-  </tbody>
-</table>
-
-<h1 id="additional-information">Additional Information</h1>
-<hr />
-
-<h1 id="flashcards">Flashcards</h1>
-<hr />
-<p>TARGET DECK</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Features of inflammation: ![[Inflammation#Inflammation]]]]></summary></entry><entry><title type="html">❗️❗️❗️Guide for writing❗️❗️❗️</title><link href="http://localhost:4000/2022/05/01/guide-for-writing.html" rel="alternate" type="text/html" title="❗️❗️❗️Guide for writing❗️❗️❗️" /><published>2022-05-01T00:00:00+03:00</published><updated>2022-05-01T00:00:00+03:00</updated><id>http://localhost:4000/2022/05/01/guide-for-writing</id><content type="html" xml:base="http://localhost:4000/2022/05/01/guide-for-writing.html"><![CDATA[<p>ALT + T to choose and insert template</p>
-
-<p>==MAIN CONTENT SHOULD BE PLACED UNDER THE DATE==</p>
-
-<h1 id="heading">Heading</h1>
-<h2 id="heading-2">Heading 2</h2>
-<h3 id="heading-3">Heading 3</h3>
-<h4 id="heading-4">Heading 4</h4>
-<h5 id="heading-5">heading 5</h5>
-
-<p>==Highlighted text==
-<strong>Bold</strong>
-<em>Italics</em>
-<u>You can underline with HTML</u>
-<strong><em>But you can only bolden and italicize together</em></strong></p>
-
-<h1 id="list">List:</h1>
-<ul>
-  <li>This is an item: below are nested items
-    <ul>
-      <li>This item is nested
-        <ul>
-          <li>
-            <table>
-              <tbody>
-                <tr>
-                  <td>This is item is also nested with a [[❗️❗️❗️Guide for writing❗️❗️❗️#List</td>
-                  <td>link]]</td>
-                </tr>
-              </tbody>
-            </table>
-          </li>
-        </ul>
-      </li>
-    </ul>
-  </li>
-</ul>
-
-<h1 id="checklist">Checklist:</h1>
-<ul class="task-list">
-  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />Write</li>
-  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />Write</li>
-  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />Write</li>
-  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Write</li>
-  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Review</li>
-</ul>
-
-<p>Coloured text:
-<span class="green">Text you want to be green</span>
-<span class="red">Text you want to be red</span>
-<span class="pink">This text is pink</span></p>
-
-<p>[[Glycolysis]]</p>
-
-<table>
-  <tbody>
-    <tr>
-      <td>The name of this pathway is [[Glycolysis</td>
-      <td>alias]]</td>
-    </tr>
-  </tbody>
-</table>
-
-<p>Visualize links with “!” before the [[]]
-![[Glycolysis#A The energy investment phase]]</p>
-
-<table>
-  <tbody>
-    <tr>
-      <td>[[Glycolysis#A The energy investment phase</td>
-      <td>alias2]]</td>
-    </tr>
-  </tbody>
-</table>
-
-<table>
-  <tbody>
-    <tr>
-      <td>[[Glycolysis#^df3f75</td>
-      <td>text block]]</td>
-    </tr>
-  </tbody>
-</table>
-
-<table>
-  <tbody>
-    <tr>
-      <td>![alt-text</td>
-      <td>100](https://qph.fs.quoracdn.net/main-qimg-3e53d7cd5e0028f4f0b0dd3d54a89b67-pjlq)</td>
-    </tr>
-  </tbody>
-</table>
-
-<p>This is text with $math$</p>
-
-<p>$1+1-1*1$
+&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry><entry><title type="html">Adaptive Immunity</title><link href="http://localhost:4000/2022/05/03/adaptive-immunity.html" rel="alternate" type="text/html" title="Adaptive Immunity" /><published>2022-05-03T00:00:00+03:00</published><updated>2022-05-03T00:00:00+03:00</updated><id>http://localhost:4000/2022/05/03/adaptive-immunity</id><content type="html" xml:base="http://localhost:4000/2022/05/03/adaptive-immunity.html">&lt;h2 id=&quot;cells-of-the-adaptive-immune-system&quot;&gt;Cells of the adaptive immune system:&lt;/h2&gt;
+&lt;hr /&gt;
+&lt;h1 id=&quot;t-lymphocytes&quot;&gt;T-lymphocytes:&lt;/h1&gt;
+&lt;p&gt;T-lymphocytes aid in cell-mediated immunity&lt;/p&gt;
+
+&lt;h1 id=&quot;maturation-of-t-lymphocytes&quot;&gt;Maturation of T-lymphocytes:&lt;/h1&gt;
+
+&lt;p&gt;Due to the large number of possible antigens that the immune system may encounter at any point, there must be a system in place which ensures the adaptive immune system has access to T-cells which match any and all possible antigens it may encounter.&lt;/p&gt;
+
+&lt;p&gt;The number of T-cells with unique cell-surface receptors produced by the adaptive immune system is upwards of one billion, and that is done through a process of somatic recombination of a limited number of inherited gene segments. The issue with such a method is that T-cells which cannot recognize self cells can arise by chance (which can cause autoimmune diseases, and so there is a selection process which is done to ensure that only the use.&lt;/p&gt;
+
+&lt;p&gt;This process occurs as the T-cells travel from the cortex of the thymus to the medulla. The non-lymphoid cells of the thymus (including endothelial cells, macrophages and dendritic cells) express high levels of both class I and class II MHCs displaying self antigens to the thymocytes (the name of immature T-cells) as they move through. This process results in two outcomes:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Positive selection: The T-cell which binds weakly to any MHC-antigen complexes are stimulated to survive.&lt;/li&gt;
+  &lt;li&gt;Negative selection: The T-cell which does bind or binds too strongly to any of the MHC-antigen complexes undergoes apoptosis.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;activation-of-helper-t-cells&quot;&gt;Activation of Helper T-cells:&lt;/h3&gt;
+&lt;p&gt;An APC presents class II MHC bound antigens and stimulates the Helper T-cell, the binding process causes the APC to begin releasing interleukins and the helper T-cell is also stimulated and secretes cytokines that activate additional macrophages and cytotoxic cells.&lt;/p&gt;
+
+&lt;h3 id=&quot;activation-of-cytotoxic-t-lymphocytes&quot;&gt;Activation of cytotoxic T-lymphocytes:&lt;/h3&gt;
+&lt;p&gt;The cytotoxic T-cells is activated by the helper T-cell and recognizes the infected or cancerous cells that have different cell-surface antigens (coupled with class I MHCs) than normal cells.&lt;/p&gt;
+
+&lt;p&gt;Once the activate (mature) cytotoxic T-cells encounters the specific target antigen-MHC complex. it binds to the infected cell and attacks it by secreting cytotoxic granules containing granzymes that kill the target cell.&lt;/p&gt;
+
+&lt;h3 id=&quot;types-of-helper-t-lymphocytes&quot;&gt;Types of helper T-lymphocytes:&lt;/h3&gt;
+&lt;h4 id=&quot;type-1&quot;&gt;Type 1:&lt;/h4&gt;
+&lt;p&gt;Type 1 helper T-cells are responsible mainly for the immune response during [[General structure of bacteria|bacterial]] infections. T-cells differentiate into them by the secretion of IL-12, and they in-turn secrete:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;IL-2 is an autocrine growth factor for TH1 cells&lt;/li&gt;
+  &lt;li&gt;IFN-g inhibits TH2 proliferation, activates macrophages and stimulate B cells to secrete IgG antibodies that opsonize microbes for phagocytosis&lt;/li&gt;
+  &lt;li&gt;LT (Lymphotoxin) and Tumor Necrosis Factor (TNF) activate neutrophils and stimulate inflammation.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;type-2&quot;&gt;Type 2:&lt;/h4&gt;
+&lt;p&gt;Type 2 helper T-cells are responsible mainly for the immune response during parasitic infections (primarily by helminths). These cells differentiate in response to helminths and allergens and do not require any significant signaling by the innate immune response. Upon activation they secrete:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;IL-4 antagonizes IFN-g effects, suppresses macrophage activation and acts on B cells to stimulate IgE antibodies which are important for allergic reactions. IL-4 is also an autocrine growth and differentiation cytokine for TH2 cells&lt;/li&gt;
+  &lt;li&gt;IL-10 inhibits IFN-g synthesis, suppresses macrophage activation&lt;/li&gt;
+  &lt;li&gt;IL-5 activates eosinophils, a response which is important for defense against helminthic infections&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;b-lymphocytes&quot;&gt;B-lymphocytes:&lt;/h1&gt;
+&lt;p&gt;B-lymphocytes aid in humoral immunity.&lt;/p&gt;
+
+&lt;h3 id=&quot;activation-of-b-lymphocytes&quot;&gt;Activation of B-lymphocytes:&lt;/h3&gt;
+&lt;p&gt;B-cells can bind using their cell-surface receptors to bind to a matching antigen, once a match is found the cell then ingests the antigen via endocytosis, and process it to be combined with class II MHCs for presentation to helper T-cells with matching receptors.&lt;/p&gt;
+
+&lt;p&gt;Once the B-cell activates a T-cell successfully, the activated T-cell releases lymphokines and interleukins that transform the B cell into a plasma cell which secretes antibodies.&lt;/p&gt;
+
+&lt;h2 id=&quot;proliferation-of-cells&quot;&gt;Proliferation of cells:&lt;/h2&gt;
+&lt;p&gt;Both the T-cells and B-cells require two distinct extracellular signals for them to proliferate and differentiate into effector cells. These two signals are:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;The binding of the antigen to the antigen receptor, which specifies the target proteins.&lt;/li&gt;
+  &lt;li&gt;The second signal is more complex and is provided by molecules called costimulants. The best known costimulatory molecule is the B7 on APCs which binds to the CD28 molecule on the surface of the T-cells. This induces the expression of anti-apoptotic proteins, stimulate the production of cytokines by the T-cells and induce proliferation and differentiation of the T-cell to deal with the target antigen.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h1 id=&quot;memory-of-the-immune-system&quot;&gt;Memory of the immune system:&lt;/h1&gt;
+&lt;p&gt;Some of the activated B and T-cells remain after an immune response in the body as memory cells. These cells remain circulating in the blood and are able of mounting an immune response on a much larger and faster scale when an antigen is encountered again than it would be for a new antigen. Through these memory cells, “immunity” is acquired.&lt;/p&gt;
+
+&lt;p&gt;The two main types of immunity that can be acquired are:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Long-term immunity; which is stimulated by direct infections and vaccinations.&lt;/li&gt;
+  &lt;li&gt;Short-term immunity; which is transferred passively from one individual to another via any antibody-containing serum. This is also seen in infants which receive antibodies that protect them throughout their infancy periods from diseases previously encountered by the mother of the child.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;additional-information&quot;&gt;Additional Information&lt;/h2&gt;
+&lt;hr /&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/7_hiaCq2rew&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content><author><name></name></author><summary type="html">Cells of the adaptive immune system: T-lymphocytes: T-lymphocytes aid in cell-mediated immunity</summary></entry><entry><title type="html">Acute inflammation</title><link href="http://localhost:4000/2022/05/02/acute-inflammation.html" rel="alternate" type="text/html" title="Acute inflammation" /><published>2022-05-02T00:00:00+03:00</published><updated>2022-05-02T00:00:00+03:00</updated><id>http://localhost:4000/2022/05/02/acute-inflammation</id><content type="html" xml:base="http://localhost:4000/2022/05/02/acute-inflammation.html">&lt;h1 id=&quot;features-of-inflammation&quot;&gt;Features of inflammation:&lt;/h1&gt;
+&lt;p&gt;![[Inflammation#Inflammation]]&lt;/p&gt;
+
+&lt;h1 id=&quot;pathophysiology-of-acute-inflammation&quot;&gt;Pathophysiology of acute inflammation:&lt;/h1&gt;
+&lt;p&gt;Acute inflammation has three major components pertaining to the blood vessels, the [[Immune systems in the body|immune response]], and the chemical mediators of the inflammatory response.&lt;/p&gt;
+
+&lt;h2 id=&quot;blood-vessels&quot;&gt;Blood vessels:&lt;/h2&gt;
+&lt;p&gt;During acute inflammation, blood vessels and capillaries of the affected area undergo a period of transient vasoconstriction, then vasodilation which causes an increase in blood flow to the region. This action is then sequentially followed by an increase in the permeability of the vessels and capillaries which allows fluid to flow outside of the vessels and into the surrounding tissue.&lt;/p&gt;
+
+&lt;p&gt;There are two main forms of fluid which can leak from the blood vessels to the interstitial tissues, they are:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;table&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td&gt;Exudate, which is fluid that is rich in proteins, cell debris, and potentially some RBCs and [[Leukocytes&lt;/td&gt;
+          &lt;td&gt;leukocytes]].&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+    &lt;/table&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Transudate, which is a fluid with low protein content and is released during periods of hydrostatic or osmotic pressure imbalances without any increase in vascular permeability (i.e., fluid is able to pass through the vascular endothelium but not larger molecules such as proteins).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Both exudate and transudate cause edema when they are released into the interstitial tissue, however the release of exudate is particular to inflammation.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;This decrease of fluid intravascularly, will gradually increases the viscosity of the blood since the concentration of [[Erythrocytes&lt;/td&gt;
+      &lt;td&gt;RBCs]] increases. This causes the blood flow to slow down in a period known as ‘stasis’ which can be externally seen as a localized redness or [[Erythema&lt;/td&gt;
+      &lt;td&gt;erythema]]. Stasis allows for ‘margination’, meaning [[Leukocytes&lt;/td&gt;
+      &lt;td&gt;leukocytes]], mostly [[Leukocytes#Neutrophils&lt;/td&gt;
+      &lt;td&gt;neutrophils]], adhere to the vascular endothelium and migrate into the injured interstitial tissue.&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;leukocytes&quot;&gt;Leukocytes:&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Accumulation across the vascular surface.&lt;/li&gt;
+  &lt;li&gt;Recruitment through margination and rolling (diapedesis $\rightarrow$ transmigration)&lt;/li&gt;
+  &lt;li&gt;Margination due to vasodilation and non-centered leukocyte positioning&lt;/li&gt;
+  &lt;li&gt;Rolling controlled by selectins (produced by mast cells and macrophages), which are regulated by cytokines and chemokines.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;The recruitment of leukocytes, namely neutrophils and [[Macrophages&lt;/td&gt;
+      &lt;td&gt;macrophages]], to the site of inflammation is important for warding off [[Microbial pathogenesis&lt;/td&gt;
+      &lt;td&gt;pathogens]] and inducing tissue repair. Since leukocytes and other blood cells are constantly moving in the blood vessels, in order for the body to recruit the leukocytes into the site of inflammation it must first stop their movement.&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;This is done through the process of margination which is induced by the leakage of fluid (such as exudate or transudate) into the site of injury, this increases the concentration of solutes and cells in the blood and initiates a period of stasis where leukocytes such as neutrophils are capable of reaching the surface of the endothelium. ^c90156&lt;/p&gt;
+
+&lt;p&gt;Upon reaching the surface of the endothelium, there are three key phases which leukocytes undergo to reach the site of inflammation and commence the immune response:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Rolling and adhering to the surface of the endothelium.&lt;/li&gt;
+  &lt;li&gt;Transmigration through the interendothelial cell gaps.&lt;/li&gt;
+  &lt;li&gt;Movement of the leukocytes through the tissue to the site of inflammation.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;rolling&quot;&gt;Rolling:&lt;/h3&gt;
+&lt;p&gt;Injured tissue, mast cells, and macrophages all produce cytokines and mediator compounds which can activate endothelial cell and induce the expression of selectins, which are cell-surface molecules which leukocytes can bind to transiently.&lt;/p&gt;
+
+&lt;p&gt;When margination of the leukocytes in the blood vessels occur, they are capable of contacting the surface of the endothelial cells, thus binding to the selectins transiently in a rolling motion until the leukocytes slow down enough to adhere to [[Integrins|integrins]] (the more tightly binding molecule). There are three types of selectins:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;E selectins, which are found on the surface of the endothelial cells.&lt;/li&gt;
+  &lt;li&gt;
+    &lt;table&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td&gt;P selectins, which are found on the surface of [[Platelets&lt;/td&gt;
+          &lt;td&gt;platelets]].&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+    &lt;/table&gt;
+  &lt;/li&gt;
+  &lt;li&gt;L selectins, which are found on the surface of leukocytes.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The most important cytokines released by macrophages and mast cells are the tumour necrosis factor (TNF), and interleukin-1 (IL-1).&lt;/p&gt;
+
+&lt;h3 id=&quot;adhesion&quot;&gt;Adhesion:&lt;/h3&gt;
+&lt;p&gt;Adhesion of leukocytes to the surface of the endothelium is mediated by integrins, which are expressed in low conditions on the surface of leukocytes and adheres when the leukocytes are activated by chemokines found on the [[Proteoglycans|proteoglycan]] layer of the vascular endothelium.&lt;/p&gt;
+
+&lt;p&gt;Integrins are transmembrane glycoproteins expressed by leukocytes which are capable of binding to ligands on the surface of the endothelial cells. The integrins are activated by chemokines on found on the proteoglycan layer of the endothelium (the chemokines originate from various cells at the site of inflammation). Simultaneously, cytokines released by macrophages and mast cells (mainly TNF and IL-1), increase the expression of &lt;strong&gt;ICAM-1&lt;/strong&gt; and &lt;strong&gt;VCAM-1&lt;/strong&gt; ligands on the surface of the endothelial cells.&lt;/p&gt;
+
+&lt;p&gt;ICAM-1 and VCAM-1 on the endothelial cells then adhere firmly to the integrins of activated leukocytes and cause them to stop rolling on the surface of the blood vessels.&lt;/p&gt;
+
+&lt;h3 id=&quot;transmigration&quot;&gt;Transmigration&lt;/h3&gt;
+&lt;p&gt;When the leukocytes stop rolling along the endothelial surface, they migrate through the vessels walls into the extracellular space by moving through the interendothelial cell gaps, a process called diapedesis.&lt;/p&gt;
+
+&lt;p&gt;This action is mediated by extracellular chemokines and PECAM-1 (also known as CD31), which create a concentration gradient that the leukocytes follow.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://i1.wp.com/www.stomponstep1.com/wp-content/uploads/2014/10/Neutrophil-Extravasion-Margination-Rolling-Adhesion-Transmigration.png&quot; alt=&quot;diapedesis&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;chemotaxis&quot;&gt;Chemotaxis:&lt;/h3&gt;
+&lt;p&gt;Chemotaxis is the process through which leukocytes which reach the extracellular space, it is mediated by specific chemo-attractants (chemokines) released by either exogenous or endogenous sources, these include:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;table&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td&gt;Exogenous, or not originating from the body; such as bacterial products and [[Microbial pathogenesis#Bacterial toxins&lt;/td&gt;
+          &lt;td&gt;toxins]].&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+    &lt;/table&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;table&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td&gt;Endogenous, or originating from the body; including cytokines (IL-80, [[Complement system#Proteins of the complement system&lt;/td&gt;
+          &lt;td&gt;complement proteins]] (especially [[Complement system#^245fe1&lt;/td&gt;
+          &lt;td&gt;C5a]]), and arachidonic acid metabolites (LTB4).&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+    &lt;/table&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;phagocytosis&quot;&gt;Phagocytosis:&lt;/h3&gt;
+&lt;p&gt;![[Phagocytosis#Phagocytosis]]&lt;/p&gt;
+
+&lt;h1 id=&quot;chemical-mediators-of-acute-inflammation&quot;&gt;Chemical mediators of acute inflammation:&lt;/h1&gt;
+&lt;p&gt;Chemical mediators of inflammation are numerous and complex in nature, they are also very important in the design and engineering of many different anti-inflammatory drugs such as aspirin and acetaminophen.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Mediators of inflammation act by binding-action to specific cell-surface receptors found on different [[Eukaryotes&lt;/td&gt;
+      &lt;td&gt;cells]], they are short-lived molecules which decay in the body through enzyme-mediated decay, inactivation, or inhibition.&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;There are two main sources of inflammatory mediators in the body, some chemicals are produced and originate from cells, while others are found in the [[Blood cells and samples#^a80fd1&lt;/td&gt;
+      &lt;td&gt;blood plasma]].&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;cell-derived&quot;&gt;Cell-derived:&lt;/h2&gt;
+&lt;p&gt;Cell-derived inflammatory mediators include the chemicals released by immune cells from intracellular [[Leukocytes#Granulocytes|granules]], and they include the chemicals that are synthesized de novo at the site of inflammation in response to stimuli such as damaged cells and pathogens.&lt;/p&gt;
+
+&lt;h3 id=&quot;vasoactive-amines&quot;&gt;Vasoactive amines:&lt;/h3&gt;
+&lt;p&gt;Vasoactive amines are chemical compounds which affect the blood vessels during inflammation, and the two major vasoactive amines are histamine and serotonin.&lt;/p&gt;
+
+&lt;p&gt;Vasoactive amines are typically stored as preformed molecules in different cells and are the first to be released during an immune response. There are three main stimuli which result in their release:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Physical injury&lt;/li&gt;
+  &lt;li&gt;
+    &lt;table&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td&gt;Binding of [[Antibodies&lt;/td&gt;
+          &lt;td&gt;antibodies]] to mast cells (the cause of [[Hypersensitivity reactions#Type I hypersensitivity reactions&lt;/td&gt;
+          &lt;td&gt;hypersensitivity reactions]]).&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+    &lt;/table&gt;
+  &lt;/li&gt;
+  &lt;li&gt;They can be the byproducts of the complement system.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Histamine&lt;/strong&gt; is the vasoactive amine released by mast cells that are adjacent to blood vessels, and it aids in the process of vasodilation and increasing the permeability of the blood vessels where it is released.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Serotonin&lt;/strong&gt; is similar to histamine in function, however it is found in the [[Platelets&lt;/td&gt;
+      &lt;td&gt;platelets]], some neurons, and enterochromaffin cells where it functions as a [[Neurotransmitters&lt;/td&gt;
+      &lt;td&gt;neurotransmitter]] as well.&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&quot;arachidonic-acid-metabolites&quot;&gt;Arachidonic acid metabolites:&lt;/h3&gt;
+&lt;p&gt;Arachidonic acid is a [[Lipids|lipid]] derived from linoleic acid and is found in the cell membrane of tissue cells. Arachidonic acid is typically esterified in the membrane and will only escape through physical, chemical, and other mechanical forces related with tissue injury.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Free floating-floating arachidonic acid is rapidly converted into bioactive mediators called [[Eicosanoids&lt;/td&gt;
+      &lt;td&gt;eicosanoids]] which bind to [[G-protein coupled receptors&lt;/td&gt;
+      &lt;td&gt;GCPRs]] on the surface of neighboring tissue cells and induce the synthesis of [[Eicosanoids&lt;/td&gt;
+      &lt;td&gt;prostaglandins]] and [[Leukotrienes&lt;/td&gt;
+      &lt;td&gt;leukotrienes]].&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;This conversion is mediated by two major classes of enzymes, which are:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;table&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td&gt;Cyclooxygenases: The cyclooxygenase pathway is mediate by COX-1 and COX-2, and produces [[Eicosanoids&lt;/td&gt;
+          &lt;td&gt;prostaglandins]], which mediate vasodilation and increase vascular permeability. In addition to thromboxane A&lt;sub&gt;2&lt;/sub&gt; (TXA&lt;sub&gt;2&lt;/sub&gt;), which mediates vasoconstriction and promotes platelet aggregation. It is inhibited by aspirin.&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+    &lt;/table&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;table&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td&gt;Lipoxygenases: The lipoxygenase pathway is mediated by 5-lipooxygenase and produces [[Leukotrienes&lt;/td&gt;
+          &lt;td&gt;leukotrienes]], which act as [[Chemotaxis&lt;/td&gt;
+          &lt;td&gt;chemotactic agents]] and increase vascular permeability.&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+    &lt;/table&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;![[Pasted image 20220328185504.png]]&lt;/p&gt;
+
+&lt;h3 id=&quot;cytokines&quot;&gt;Cytokines:&lt;/h3&gt;
+&lt;p&gt;![[Cytokines#Cytokines in inflammation]]&lt;/p&gt;
+
+&lt;h3 id=&quot;nitric-oxides&quot;&gt;Nitric oxides:&lt;/h3&gt;
+&lt;p&gt;Nitric oxides are &lt;strong&gt;potent vasodilators&lt;/strong&gt; formed in the body by nitric oxide synthase (NOS), they are involved in the pathogenesis of [[Anaphylaxis|anaphylactic shock]] and function as cytotoxic agents for killing [[Microbial pathogenesis|microbes]].&lt;/p&gt;
+
+&lt;h2 id=&quot;plasma-derived&quot;&gt;Plasma-derived:&lt;/h2&gt;
+&lt;p&gt;Plasma-derived inflammatory mediators are chemicals that are readily circulating in the blood such as the [[Complement system|complement system]] proteins and [[Blood coagulation|coagulation]] factors (i.e., proteins initiated by the [[Blood coagulation#Hageman factor|Hageman factor]]).&lt;/p&gt;
+
+&lt;h3 id=&quot;complement-system&quot;&gt;Complement system:&lt;/h3&gt;
+&lt;p&gt;The [[Complement system|complement system]] plays an important role during acute inflammation, where the cleavage of the C3 complement protein allows for the cleavage of other complement proteins down the chain which mediate inflammation; namely the [[Complement system#^767d27|C5a, C4a, and C3a]] cleavage products (although mostly C5a).
+![[Complement system#The complement system]]&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;The [[Complement system#Membrane attack complex&lt;/td&gt;
+      &lt;td&gt;membrane attack complex]] is also an important part of the complement system and in inflammation. The main function of the MAC is microbial lysis through the formation of pores through the [[Eukaryotes#Cell Membrane&lt;/td&gt;
+      &lt;td&gt;cell membrane]] of any pathogens.&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;![[Complement system#Membrane attack complex]]&lt;/p&gt;
+
+&lt;h3 id=&quot;coagulation-and-kinin-system&quot;&gt;Coagulation and kinin system:&lt;/h3&gt;
+&lt;p&gt;![[Blood coagulation]]&lt;/p&gt;
+
+&lt;h1 id=&quot;recognition-of-foreign-particles&quot;&gt;Recognition of foreign particles:&lt;/h1&gt;
+&lt;h2 id=&quot;toll-like-receptors&quot;&gt;Toll-like receptors:&lt;/h2&gt;
+&lt;p&gt;These are cell-surface receptors found on the surface of macrophages and dendritic cells. TLRs are capable of recognizing many pathogen-associated molecular patterns or PAMPs, which allows their cells to recognize foreign pathogens ([[Prokaryotes#Nucleoid|bacterial DNA]], [[Microbial pathogenesis#Endotoxins|endotoxins]], [[General structure of viruses|viruses]], etc…).&lt;/p&gt;
+
+&lt;h2 id=&quot;inflammasomes&quot;&gt;Inflammasomes:&lt;/h2&gt;
+&lt;p&gt;Inflammasomes are proteins that are part of a multiprotein cytoplasmic complex that is activated by the products of dead cells, and activate caspace-1 which results in the secretion of cytokines such as IL-1&lt;sub&gt;β&lt;/sub&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;outcome&quot;&gt;Outcome:&lt;/h1&gt;
+&lt;p&gt;The outcome of acute inflammation are either resolution of the inflammation or the development of [[Chronic inflammation|chronic inflammation]].&lt;/p&gt;
+
+&lt;p&gt;Resolution of the inflammation takes two main forms:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;The inflammation is either resolved with minimal tissue injury, meaning no major growth and repair are required and the tissue is capable of operating normally.&lt;/li&gt;
+  &lt;li&gt;Or the inflammation can be resolved but after the formation of an abscess or some pustulate bodies, which then experience fibrosis and loss of function in the affected area.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;The development of chronic inflammation has many potential outcomes which can be reviewed in the [[Chronic inflammation&lt;/td&gt;
+      &lt;td&gt;chronic inflammation]] section.&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h1 id=&quot;additional-information&quot;&gt;Additional Information&lt;/h1&gt;
+&lt;hr /&gt;
+
+&lt;h1 id=&quot;flashcards&quot;&gt;Flashcards&lt;/h1&gt;
+&lt;hr /&gt;
+&lt;p&gt;TARGET DECK&lt;/p&gt;</content><author><name></name></author><summary type="html">Features of inflammation: ![[Inflammation#Inflammation]]</summary></entry><entry><title type="html">❗️❗️❗️Guide for writing❗️❗️❗️</title><link href="http://localhost:4000/2022/05/01/guide-for-writing.html" rel="alternate" type="text/html" title="❗️❗️❗️Guide for writing❗️❗️❗️" /><published>2022-05-01T00:00:00+03:00</published><updated>2022-05-01T00:00:00+03:00</updated><id>http://localhost:4000/2022/05/01/guide-for-writing</id><content type="html" xml:base="http://localhost:4000/2022/05/01/guide-for-writing.html">&lt;p&gt;ALT + T to choose and insert template&lt;/p&gt;
+
+&lt;p&gt;==MAIN CONTENT SHOULD BE PLACED UNDER THE DATE==&lt;/p&gt;
+
+&lt;h1 id=&quot;heading&quot;&gt;Heading&lt;/h1&gt;
+&lt;h2 id=&quot;heading-2&quot;&gt;Heading 2&lt;/h2&gt;
+&lt;h3 id=&quot;heading-3&quot;&gt;Heading 3&lt;/h3&gt;
+&lt;h4 id=&quot;heading-4&quot;&gt;Heading 4&lt;/h4&gt;
+&lt;h5 id=&quot;heading-5&quot;&gt;heading 5&lt;/h5&gt;
+
+&lt;p&gt;==Highlighted text==
+&lt;strong&gt;Bold&lt;/strong&gt;
+&lt;em&gt;Italics&lt;/em&gt;
+&lt;u&gt;You can underline with HTML&lt;/u&gt;
+&lt;strong&gt;&lt;em&gt;But you can only bolden and italicize together&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;list&quot;&gt;List:&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;This is an item: below are nested items
+    &lt;ul&gt;
+      &lt;li&gt;This item is nested
+        &lt;ul&gt;
+          &lt;li&gt;
+            &lt;table&gt;
+              &lt;tbody&gt;
+                &lt;tr&gt;
+                  &lt;td&gt;This is item is also nested with a [[❗️❗️❗️Guide for writing❗️❗️❗️#List&lt;/td&gt;
+                  &lt;td&gt;link]]&lt;/td&gt;
+                &lt;/tr&gt;
+              &lt;/tbody&gt;
+            &lt;/table&gt;
+          &lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;checklist&quot;&gt;Checklist:&lt;/h1&gt;
+&lt;ul class=&quot;task-list&quot;&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; checked=&quot;checked&quot; /&gt;Write&lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; checked=&quot;checked&quot; /&gt;Write&lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; checked=&quot;checked&quot; /&gt;Write&lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;Write&lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;Review&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Coloured text:
+&lt;span class=&quot;green&quot;&gt;Text you want to be green&lt;/span&gt;
+&lt;span class=&quot;red&quot;&gt;Text you want to be red&lt;/span&gt;
+&lt;span class=&quot;pink&quot;&gt;This text is pink&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;[[Glycolysis]]&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;The name of this pathway is [[Glycolysis&lt;/td&gt;
+      &lt;td&gt;alias]]&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Visualize links with “!” before the [[]]
+![[Glycolysis#A The energy investment phase]]&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;[[Glycolysis#A The energy investment phase&lt;/td&gt;
+      &lt;td&gt;alias2]]&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;[[Glycolysis#^df3f75&lt;/td&gt;
+      &lt;td&gt;text block]]&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;![alt-text&lt;/td&gt;
+      &lt;td&gt;100](https://qph.fs.quoracdn.net/main-qimg-3e53d7cd5e0028f4f0b0dd3d54a89b67-pjlq)&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;This is text with $math$&lt;/p&gt;
+
+&lt;p&gt;$1+1-1*1$
 I am writing but want to display below \(1+1-2=0\)
-\(\ce {O2 + C -&gt;[heat][underneath] CO2}\)
-I am writing and want to insert math in my sentence $1+1=2$</p>
+\(\ce {O2 + C -&amp;gt;[heat][underneath] CO2}\)
+I am writing and want to insert math in my sentence $1+1=2$&lt;/p&gt;
 
-<p>alt + 1-7 for αβγδμπω</p>
+&lt;p&gt;alt + 1-7 for αβγδμπω&lt;/p&gt;
 
-<p>alt + . for °</p>
+&lt;p&gt;alt + . for °&lt;/p&gt;
 
-<p><strong>For copyrighted text, press Alt + T and choose “Template for copyright text”:</strong></p>
-<blockquote>
-  <p>[!Copyright]
-Copied text goes here.</p>
+&lt;p&gt;&lt;strong&gt;For copyrighted text, press Alt + T and choose “Template for copyright text”:&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;[!Copyright]
+Copied text goes here.&lt;/p&gt;
 
-  <p><a href="https://www.linktosource.com/">Name of source</a></p>
-</blockquote>
+  &lt;p&gt;&lt;a href=&quot;https://www.linktosource.com/&quot;&gt;Name of source&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
 
-<p><em>Example:</em></p>
-<blockquote>
-  <p>[!Copyright]
-The <strong>cat</strong> (<em>Felis catus</em>) is a <a href="https://en.wikipedia.org/wiki/Domestication" title="Domestication">domestic</a> <a href="https://en.wikipedia.org/wiki/Species" title="Species">species</a> of small <a href="https://en.wikipedia.org/wiki/Carnivorous" title="Carnivorous">carnivorous</a> <a href="https://en.wikipedia.org/wiki/Mammal" title="Mammal">mammal</a>. It is the only domesticated species in the family <a href="https://en.wikipedia.org/wiki/Felidae" title="Felidae">Felidae</a> and is often referred to as the <strong>domestic cat</strong> to distinguish it from the wild members of the family. A cat can either be a <strong>house cat</strong>, a <strong><a href="https://en.wikipedia.org/wiki/Farm_cat" title="Farm cat">farm cat</a></strong> or a <strong><a href="https://en.wikipedia.org/wiki/Feral_cat" title="Feral cat">feral cat</a></strong>; the latter ranges freely and avoids human contact. Domestic cats are valued by humans for companionship and their ability to kill <a href="https://en.wikipedia.org/wiki/Rodent" title="Rodent">rodents</a>. About 60 <a href="https://en.wikipedia.org/wiki/Cat_breeds" title="Cat breeds">cat breeds</a> are recognized by various <a href="https://en.wikipedia.org/wiki/Cat_registries" title="Cat registries">cat registries</a>.</p>
+&lt;p&gt;&lt;em&gt;Example:&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;[!Copyright]
+The &lt;strong&gt;cat&lt;/strong&gt; (&lt;em&gt;Felis catus&lt;/em&gt;) is a &lt;a href=&quot;https://en.wikipedia.org/wiki/Domestication&quot; title=&quot;Domestication&quot;&gt;domestic&lt;/a&gt; &lt;a href=&quot;https://en.wikipedia.org/wiki/Species&quot; title=&quot;Species&quot;&gt;species&lt;/a&gt; of small &lt;a href=&quot;https://en.wikipedia.org/wiki/Carnivorous&quot; title=&quot;Carnivorous&quot;&gt;carnivorous&lt;/a&gt; &lt;a href=&quot;https://en.wikipedia.org/wiki/Mammal&quot; title=&quot;Mammal&quot;&gt;mammal&lt;/a&gt;. It is the only domesticated species in the family &lt;a href=&quot;https://en.wikipedia.org/wiki/Felidae&quot; title=&quot;Felidae&quot;&gt;Felidae&lt;/a&gt; and is often referred to as the &lt;strong&gt;domestic cat&lt;/strong&gt; to distinguish it from the wild members of the family. A cat can either be a &lt;strong&gt;house cat&lt;/strong&gt;, a &lt;strong&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Farm_cat&quot; title=&quot;Farm cat&quot;&gt;farm cat&lt;/a&gt;&lt;/strong&gt; or a &lt;strong&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Feral_cat&quot; title=&quot;Feral cat&quot;&gt;feral cat&lt;/a&gt;&lt;/strong&gt;; the latter ranges freely and avoids human contact. Domestic cats are valued by humans for companionship and their ability to kill &lt;a href=&quot;https://en.wikipedia.org/wiki/Rodent&quot; title=&quot;Rodent&quot;&gt;rodents&lt;/a&gt;. About 60 &lt;a href=&quot;https://en.wikipedia.org/wiki/Cat_breeds&quot; title=&quot;Cat breeds&quot;&gt;cat breeds&lt;/a&gt; are recognized by various &lt;a href=&quot;https://en.wikipedia.org/wiki/Cat_registries&quot; title=&quot;Cat registries&quot;&gt;cat registries&lt;/a&gt;.&lt;/p&gt;
 
-  <p><a href="https://en.wikipedia.org/wiki/Cat">Wikipedia</a></p>
-</blockquote>
+  &lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Cat&quot;&gt;Wikipedia&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
 
-<h1 id="additional-information">Additional Information</h1>
-<hr />
-<p>==ONLY VIDEOS AND WEBSITES GO IN “ADDITIONAL INFORMATION”==</p>
+&lt;h1 id=&quot;additional-information&quot;&gt;Additional Information&lt;/h1&gt;
+&lt;hr /&gt;
+&lt;p&gt;==ONLY VIDEOS AND WEBSITES GO IN “ADDITIONAL INFORMATION”==&lt;/p&gt;
 
-<iframe src="https://www.google.com" height="400" width="400"></iframe>
+&lt;iframe src=&quot;https://www.google.com&quot; height=&quot;400&quot; width=&quot;400&quot;&gt;&lt;/iframe&gt;
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gggC9vctvBQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/gggC9vctvBQ&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
-<h1 id="flashcards">Flashcards</h1>
-<hr />
-<p>TARGET DECK</p>]]></content><author><name></name></author><summary type="html"><![CDATA[ALT + T to choose and insert template]]></summary></entry></feed>
+&lt;h1 id=&quot;flashcards&quot;&gt;Flashcards&lt;/h1&gt;
+&lt;hr /&gt;
+&lt;p&gt;TARGET DECK&lt;/p&gt;</content><author><name></name></author><summary type="html">ALT + T to choose and insert template</summary></entry></feed>

@@ -1,5 +1,5 @@
 main:
   - title: "About"
-    url: /about.md/
+    url: /docs/about/
   - title: "Learn"
-    url: /table-of-contents.md/
+    url: /docs/table-of-contents/
